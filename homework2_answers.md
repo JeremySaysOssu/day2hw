@@ -8,7 +8,7 @@ the repository?
 a: git add . or to add all files git add '*."filetype"'
 
 
-dfddg
+
 
  -->
  <!--  
@@ -26,7 +26,7 @@ dfddg
  a: error in code, something messed up and you can go back to the when it worked
  -->
 
- <!--
+ 
 What command do you use to create a branch?
 a: git branch [branch-name]
 What command do you use to use a different branch?
@@ -34,4 +34,3 @@ git checkout
 Why would you want to use a branch other than the default master?
 A: When developers are working on a feature or bug they'll often create a
 copy (aka. branch) of their code they can make separate commits to
- -->  
