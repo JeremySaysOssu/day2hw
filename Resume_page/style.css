@@ -9,23 +9,20 @@ h3 {
   text-align: center;
 }
 
-/* ul {
-  text-align: center;
-    color: blue; */
-
-img {
-border-radius: 30px;
-width: 135px;
-padding: 7px;
-margin: 25px;
-
-}
-
-body {
-  margin: auto;
+.mypic {
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 25%;
 }
 
 #navi{
   display: block;
+  text-align: center;
 
+}
+
+a {
+  align-items: center;
 }
