@@ -1,11 +1,10 @@
+Give an example for when you would use git merge and give an example for when
+it would be better to submit a pull request to have your branch merged
+you have taken apart the main file and created a branch,
+id use merge to put the files back together vs pulling the info from git.
+pull req would bring the comments. no what we want
 
-What command do you use to create a branch?
-a: git branch [branch-name]
-What command do you use to use a different branch?
-git checkout
-Why would you want to use a branch other than the default master?
-A: When developers are working on a feature or bug they'll often create a
-copy (aka. branch) of their code they can make separate commits to
+What command do you use to send all of the work that you've done locally
+to your remote repository? git push
 
-
-question batch three
+question batch four
